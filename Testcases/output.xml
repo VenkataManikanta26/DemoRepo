@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 6.0.1 (Python 3.11.1 on win32)" generated="20230210 16:00:56.052" rpa="false" schemaversion="3">
-<suite id="s1" name="TC002" source="C:\Users\user\PycharmProjects\pythonProject2\DemoRepo\Testcases\TC002.robot">
-<test id="s1-t1" name="TC001" line="6">
+<robot generator="Robot 6.0.1 (Python 3.11.1 on win32)" generated="20230210 16:20:56.207" rpa="false" schemaversion="3">
+<suite id="s1" name="TC003" source="C:\Users\user\PycharmProjects\pythonProject2\DemoRepo\Testcases\TC003.robot">
+<test id="s1-t1" name="TC001" line="7">
 <kw name="Open Browser" library="SeleniumLibrary">
-<arg>https://github.com/VenkataManikanta26/DemoRepo</arg>
+<arg>https://www.youtube.com/watch?v=-_g3QITLaQA&amp;t=125s</arg>
 <arg>chrome</arg>
 <doc>Opens a new browser instance to the optional ``url``.</doc>
-<msg timestamp="20230210 16:00:56.295" level="INFO">Opening browser 'chrome' to base url 'https://github.com/VenkataManikanta26/DemoRepo'.</msg>
-<status status="PASS" starttime="20230210 16:00:56.295" endtime="20230210 16:01:02.107"/>
+<msg timestamp="20230210 16:20:56.453" level="INFO">Opening browser 'chrome' to base url 'https://www.youtube.com/watch?v=-_g3QITLaQA&amp;t=125s'.</msg>
+<status status="PASS" starttime="20230210 16:20:56.452" endtime="20230210 16:21:10.599"/>
 </kw>
-<status status="PASS" starttime="20230210 16:00:56.294" endtime="20230210 16:01:02.108"/>
+<status status="PASS" starttime="20230210 16:20:56.452" endtime="20230210 16:21:10.645"/>
 </test>
-<status status="PASS" starttime="20230210 16:00:56.054" endtime="20230210 16:01:02.117"/>
+<status status="PASS" starttime="20230210 16:20:56.209" endtime="20230210 16:21:10.663"/>
 </suite>
 <statistics>
 <total>
@@ -20,7 +20,7 @@
 <tag>
 </tag>
 <suite>
-<stat pass="1" fail="0" skip="0" id="s1" name="TC002">TC002</stat>
+<stat pass="1" fail="0" skip="0" id="s1" name="TC003">TC003</stat>
 </suite>
 </statistics>
 <errors>
