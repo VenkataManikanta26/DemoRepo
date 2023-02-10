@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.1 (Python 3.11.1 on win32)" generated="20230210 16:00:56.052" rpa="false" schemaversion="3">
+<suite id="s1" name="TC002" source="C:\Users\user\PycharmProjects\pythonProject2\DemoRepo\Testcases\TC002.robot">
+<test id="s1-t1" name="TC001" line="6">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>https://github.com/VenkataManikanta26/DemoRepo</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230210 16:00:56.295" level="INFO">Opening browser 'chrome' to base url 'https://github.com/VenkataManikanta26/DemoRepo'.</msg>
+<status status="PASS" starttime="20230210 16:00:56.295" endtime="20230210 16:01:02.107"/>
+</kw>
+<status status="PASS" starttime="20230210 16:00:56.294" endtime="20230210 16:01:02.108"/>
+</test>
+<status status="PASS" starttime="20230210 16:00:56.054" endtime="20230210 16:01:02.117"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TC002">TC002</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
